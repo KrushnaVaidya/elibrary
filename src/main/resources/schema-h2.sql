@@ -1,0 +1,1 @@
+create table book(id int primary key auto_increment,title varchar(20),author varchar(30),isbn varchar(30),publisher varchar(30),qty int)
